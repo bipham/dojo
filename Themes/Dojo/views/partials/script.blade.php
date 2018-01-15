@@ -1,0 +1,13 @@
+{!! Theme::script('js/jquery.min.js') !!}
+{!! Theme::script('js/bootstrap.min.js') !!}
+{!! Theme::script('js/wow.min.js') !!}
+{!! Theme::script('js/owl.carousel.min.js') !!}
+{!! Theme::script('js/jquery.appear.min.js') !!}
+{!! Theme::script('js/jquery.countTo.js') !!}
+{!! Theme::script('js/ui.js') !!}
+{!! Theme::script('js/jquery.bxslider.min.js') !!}
+{!! Theme::script('js/jquery.mmenu.all.min.js') !!}
+{!! Theme::script('js/chosen.jquery.min.js') !!}
+{!! Theme::script('js/jquery.countdown.js') !!}
+{!! Theme::script('js/frontend.js') !!}
+<script type="text/javascript" src="{{asset('js/fapp.js')}}"></script>
